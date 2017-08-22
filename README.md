@@ -1,5 +1,5 @@
 # ActionModeInRecyclerView
-Simple Application which Demonstrates how to apply_**Action Mode**_ and _**SearchView**_
+Simple Application which Demonstrates how to apply _**Action Mode**_ and _**SearchView**_
 with Recycler View in an ArrayList.
 
 Action mode uses SparseBooleanArray for its operation.
